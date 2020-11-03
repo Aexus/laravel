@@ -9,7 +9,7 @@ $wwwRoot = [
 ];
 
 // 保存运行脚本的日志
-$logFile = 'log/webhook.log';
+$logFile = '../storage/logs/webhook.log';
 
 // 执行git命令
 $gitCommand = 'git pull origin master';
